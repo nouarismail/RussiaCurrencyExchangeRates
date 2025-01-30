@@ -1,0 +1,14 @@
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/bin/Debug/net9.0/RussiaCurrencyExchangeRates
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/bin/Debug/net9.0/RussiaCurrencyExchangeRates.deps.json
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/bin/Debug/net9.0/RussiaCurrencyExchangeRates.runtimeconfig.json
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/bin/Debug/net9.0/RussiaCurrencyExchangeRates.dll
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/bin/Debug/net9.0/RussiaCurrencyExchangeRates.pdb
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/RussiaCurrencyExchangeRates.GeneratedMSBuildEditorConfig.editorconfig
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/RussiaCurrencyExchangeRates.AssemblyInfoInputs.cache
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/RussiaCurrencyExchangeRates.AssemblyInfo.cs
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/RussiaCurrencyExchangeRates.csproj.CoreCompileInputs.cache
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/RussiaCurrencyExchangeRates.dll
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/refint/RussiaCurrencyExchangeRates.dll
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/RussiaCurrencyExchangeRates.pdb
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/RussiaCurrencyExchangeRates.genruntimeconfig.cache
+/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/Debug/net9.0/ref/RussiaCurrencyExchangeRates.dll

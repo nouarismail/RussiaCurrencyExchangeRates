@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/nouar/Desktop/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj": {}
+    "/home/nouar/Desktop/work 2025/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj": {}
   },
   "projects": {
-    "/home/nouar/Desktop/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj": {
+    "/home/nouar/Desktop/work 2025/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/nouar/Desktop/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj",
+        "projectUniqueName": "/home/nouar/Desktop/work 2025/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj",
         "projectName": "RussiaCurrencyExchangeRates",
-        "projectPath": "/home/nouar/Desktop/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj",
+        "projectPath": "/home/nouar/Desktop/work 2025/RussiaCurrencyExchangeRates/RussiaCurrencyExchangeRates.csproj",
         "packagesPath": "/home/nouar/.nuget/packages/",
-        "outputPath": "/home/nouar/Desktop/RussiaCurrencyExchangeRates/obj/",
+        "outputPath": "/home/nouar/Desktop/work 2025/RussiaCurrencyExchangeRates/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/nouar/.nuget/NuGet/NuGet.Config"

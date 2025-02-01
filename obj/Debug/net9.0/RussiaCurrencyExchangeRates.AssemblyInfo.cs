@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RussiaCurrencyExchangeRates")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48bf3e3df3b6c1f9c0aaaaaf8e47a7279f946ebd")]
 [assembly: System.Reflection.AssemblyProductAttribute("RussiaCurrencyExchangeRates")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RussiaCurrencyExchangeRates")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
